@@ -1,0 +1,2 @@
+cat iacta | head -3 | tail -1
+cat ./iacta | tail --lines=+3 | head -1

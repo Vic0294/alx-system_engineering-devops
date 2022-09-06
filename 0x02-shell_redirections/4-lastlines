@@ -1,1 +1,2 @@
-Display the last
+#!/bin/bash
+tail -10 /etc/passwd

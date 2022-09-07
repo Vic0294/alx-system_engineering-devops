@@ -1,1 +1,1 @@
-Create a script that counts
+Create a script that lists environment variables

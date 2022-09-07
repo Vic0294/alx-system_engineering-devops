@@ -1,1 +1,1 @@
-Create a script that removes
+Write a script that reverse

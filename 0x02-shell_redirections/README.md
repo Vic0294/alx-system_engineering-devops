@@ -1,1 +1,1 @@
-Display lines
+Replace all characters

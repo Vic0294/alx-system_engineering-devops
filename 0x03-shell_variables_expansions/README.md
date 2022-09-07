@@ -1,1 +1,1 @@
-Create a script
+ should be the last directory
